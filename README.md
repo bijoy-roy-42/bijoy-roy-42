@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bijoy-roy-42
-- 👀 I’m interested in coding ...
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning to code in rust
 - 💞️ I’m looking to collaborate on web designing
 - 📫 How to reach me here at github
